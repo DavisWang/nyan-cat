@@ -7,4 +7,4 @@ Nyan Cat made with HTML5+CSS3 (and JavaScript :T).
 
 Forked from somewhere...
 
-TODO: add more cats + music + message
+TODO: add more cats + music + message + fix rainbow
